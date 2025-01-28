@@ -1,5 +1,5 @@
 # Proxyai_mvp
-This RAG AI model was built as an internal tool for USC Information Technology Systems. The txt file contains departmental troubleshooting procedures, which is used as data for a chatbot for the department's student workers.
+This RAG AI model was built as an internal tool for USC Information Technology Systems. The txt file contains departmental troubleshooting procedures, which is used as data for a chatbot for the department's student workers. The mvp was built in collaboration with two technical cofounders. 
 
 Pitch Deck: https://docs.google.com/presentation/d/1chrVj7xejaAFYtnKSv6QdBRknm2L6z_kMyBAvIO9Asg/edit?usp=sharing
 
